@@ -1,5 +1,5 @@
 # rhoCentralRK4Foam
-- Original code is from https://github.com/SiboLi666/rhoCentralRK4Foam , please ref to it.
+- Original code is from https://github.com/SiboLi666/rhoCentralRK4Foam , https://www.cfd-online.com/Forums/openfoam-solving/125307-rhocentralfoam-runge-kutta.html
 - Only Modify to compile with openfoam v2012
 
     
