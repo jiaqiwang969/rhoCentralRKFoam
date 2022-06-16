@@ -1,4 +1,4 @@
 SOURCE = \
-rhoCentralRK4Foam.C \
+rhoCentralFoam.C \
 
 # sources

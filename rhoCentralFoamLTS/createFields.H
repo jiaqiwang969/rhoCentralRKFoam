@@ -23,34 +23,6 @@ volVectorField U
     ),
     mesh
 );
-// Analytical Solution for Velocity
-    volVectorField analyticalU
-    (
-        IOobject
-        (
-            "analyticalU",
-            runTime.timeName(),
-            mesh,
-            IOobject::NO_READ,
-            IOobject::AUTO_WRITE
-        ),
-        mesh,
-        dimensionedVector("analyticalU",dimVelocity,vector::zero)
-    );
-    // Analytical Solution for Pressure
-    volScalarField analyticalp
-    (
-        IOobject
-        (
-            "analyticalp",
-            runTime.timeName(),
-            mesh,
-            IOobject::NO_READ,
-            IOobject::AUTO_WRITE
-        ),
-        mesh,
-        dimensionedScalar("analyticalp",dimPressure,0)
-    );
 
 volScalarField rho
 (
@@ -128,12 +100,3 @@ autoPtr<compressible::turbulenceModel> turbulence
         thermo
     )
 );
-
-//  define RK coefficient 
-
-    scalarList rkCoeff(0) ;
-
-    rkCoeff.append(1./4.) ;
-    rkCoeff.append(1./3.) ;
-    rkCoeff.append(1./2.) ;
-    rkCoeff.append(1./1.) ;
