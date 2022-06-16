@@ -6,3 +6,13 @@
 - Acknowledge：Du Lei
 
 - Suggestion: set CFL=0.3\~0.5 at first, the enlarge it to CFL=0.5\~1.3
+
+
+# CFL Selection
+- Large Eddy Simulation $(0.5-1)$
+- Free Surface Flows $(<1)$
+- Compressible Flows (depends on speed of sound)
+- Turbomachinery $(<80)$
+- Explicit Time Stepping $(<1)$.
+
+Most often the maximum Courant number should be below 1.0.
