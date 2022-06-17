@@ -6,7 +6,7 @@
 - Acknowledge：Du Lei
 
 
-# Validation: shockTube, rhoCentralFoam vs rhoCentralFoamRK4
+# Validation: 
 - 1 parameter: rhoCentralFoam,LTS,maxCo=0.2(not correct);rhoCentralFoamRK4,LTS,maxCo=0.2; 
 <img src="https://cdn.mathpix.com/snip/images/uv6PHIduDdgebNMLStAkQu-fBUtouyjb3q4DvThCW94.original.fullsize.png" width="640px">
 
