@@ -6,7 +6,8 @@
 - Acknowledge：Du Lei
 
 
-# Validation: shockTube, rhoCentralFoam vs rhoCentralFoamRK4
+# Validation: 
+### 01:shockTube
 - 1 parameter: rhoCentralFoam,LTS,maxCo=0.2(not correct);rhoCentralFoamRK4,LTS,maxCo=0.2; 
 <img src="https://cdn.mathpix.com/snip/images/uv6PHIduDdgebNMLStAkQu-fBUtouyjb3q4DvThCW94.original.fullsize.png" width="640px">
 
@@ -14,6 +15,10 @@
 <img src="https://cdn.mathpix.com/snip/images/6ZDy-py7YWsX8s5hkb7QnwCfws2WwbgiyaPfLFZyrM8.original.fullsize.png" width="640px">
 
 which means rhoCentralFoamRK4 is more effecient in same setting!
+
+### 02:sineWave
+
+<img src="https://cdn.mathpix.com/snip/images/hcCMGqyc3YfDs90Ht3FBW6v4QbyMsZWPIhB3JUtoUNg.original.fullsize.png" />
 
 
 
