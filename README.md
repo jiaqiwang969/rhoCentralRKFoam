@@ -16,3 +16,7 @@
 - Explicit Time Stepping $(<1)$.
 
 Most often the maximum Courant number should be below 1.0.
+
+
+# Quesion:
+- use "bounded" or "unbounded" : most "bounded" is for steady flow, [为了使求解稳定](https://www.cfd-china.com/topic/2580/openfoam%E4%B8%ADbounded%E5%92%8Cunbounded%E7%9A%84%E5%8C%BA%E5%88%AB/7)
