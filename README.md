@@ -18,7 +18,7 @@ which means rhoCentralFoamRK4 is more effecient in same setting!
 
 ### 02:sineWave
 
-<img src="https://cdn.mathpix.com/snip/images/hcCMGqyc3YfDs90Ht3FBW6v4QbyMsZWPIhB3JUtoUNg.original.fullsize.png" />
+<img src="https://cdn.mathpix.com/snip/images/hcCMGqyc3YfDs90Ht3FBW6v4QbyMsZWPIhB3JUtoUNg.original.fullsize.png" width="640px">
 
 
 
