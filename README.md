@@ -21,7 +21,7 @@ which means rhoCentralFoamRK4 is more effecient in same setting!
 <img src="https://cdn.mathpix.com/snip/images/hcCMGqyc3YfDs90Ht3FBW6v4QbyMsZWPIhB3JUtoUNg.original.fullsize.png" width="640px">
 
 ### 02:inf which is better? smaller
-<img src="https://cdn.mathpix.com/snip/images/dvDi07RWI4nXpOy_87uT4w-I0qSkgyApgDOpRrG9mSU.original.fullsize.png" />
+<img src="https://cdn.mathpix.com/snip/images/dvDi07RWI4nXpOy_87uT4w-I0qSkgyApgDOpRrG9mSU.original.fullsize.png" width="640px">
 
 # CFL Selection
 - Large Eddy Simulation $(0.5-1)$
