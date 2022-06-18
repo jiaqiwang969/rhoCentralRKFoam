@@ -23,6 +23,8 @@ which means rhoCentralFoamRK4 is more effecient in same setting!
 ### 02:inf which is better? smaller
 <img src="https://cdn.mathpix.com/snip/images/dvDi07RWI4nXpOy_87uT4w-I0qSkgyApgDOpRrG9mSU.original.fullsize.png" width="640px">
 
+etA should balance between "drift" and "wall" , etA==1 is suggested.
+
 # CFL Selection
 - Large Eddy Simulation $(0.5-1)$
 - Free Surface Flows $(<1)$
